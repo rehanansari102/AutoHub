@@ -1,17 +1,32 @@
-# Car Management System
+# AutoHub
 
-This project is a Car Management System built using the MERN stack (MongoDB, Express, React, Node.js) and Next.js for the frontend. The system includes user authentication, CRUD operations for cars and categories, and features such as sorting, pagination, and data validation.
+A modern, full-stack Car Management System built using the MERN stack (MongoDB, Express, React, Node.js) with Next.js powering the frontend.
 
-## Features
+This project demonstrates a real-world, production-style architecture for managing vehicle inventory systems, including authentication, structured data management, and scalable CRUD operations.
 
-- User Authentication (Sign Up, Sign In)
-- Welcome email on Sign Up with randomly generated password
-- Dashboard showing the number of registered cars
-- CRUD operations for categories (Bus, Sedan, SUV, Hatchback, etc.)
-- CRUD operations for cars with fields such as make, model, color, registration number, etc.
-- Data tables for sorting and pagination
-- JWT-based authentication
-- Front-end and back-end data validation
+It is designed with a focus on clean UI, secure backend logic, and efficient data handling, making it suitable for enterprise-level vehicle or fleet management use cases.
+
+✨ Key Features
+    🔐 Secure Authentication System
+        User Sign Up / Sign In
+        JWT-based authentication for secure session handling
+    📧 Automated Email Workflow
+        Welcome email sent on registration
+        Randomly generated secure password delivery
+    📊 Admin Dashboard
+        Overview of total registered cars
+        Quick insights into system data
+    🚘 Car Management Module
+        Full CRUD operations for cars
+        Fields include: make, model, color, registration number, and more
+    🗂️ Category Management
+        Manage vehicle categories such as Bus, Sedan, SUV, Hatchback, etc.
+    📑 Advanced Data Tables
+        Sorting and pagination for efficient data browsing
+        Optimised for large datasets
+    🛡️ Data Integrity & Validation
+        Strong backend validation (Express)
+        Frontend validation for better UX and error handling
 
 ## Technologies Used
 
