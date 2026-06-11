@@ -6,27 +6,27 @@ This project demonstrates a real-world, production-style architecture for managi
 
 It is designed with a focus on clean UI, secure backend logic, and efficient data handling, making it suitable for enterprise-level vehicle or fleet management use cases.
 
-✨ Key Features
-🔐 Secure Authentication System
-User Sign Up / Sign In
-JWT-based authentication for secure session handling
-📧 Automated Email Workflow
-Welcome email sent on registration
-Randomly generated secure password delivery
-📊 Admin Dashboard
-Overview of total registered cars
-Quick insights into system data
-🚘 Car Management Module
-Full CRUD operations for cars
-Fields include: make, model, color, registration number, and more
-🗂️ Category Management
-Manage vehicle categories such as Bus, Sedan, SUV, Hatchback, etc.
-📑 Advanced Data Tables
-Sorting and pagination for efficient data browsing
-Optimized for large datasets
-🛡️ Data Integrity & Validation
-Strong backend validation (Express)
-Frontend validation for better UX and error handling
+- ✨ Key Features
+- 🔐 Secure Authentication System
+- User Sign Up / Sign In
+- JWT-based authentication for secure session handling
+- 📧 Automated Email Workflow
+- Welcome email sent on registration
+- Randomly generated secure password delivery
+- 📊 Admin Dashboard
+- Overview of total registered cars
+- Quick insights into system data
+- 🚘 Car Management Module
+- Full CRUD operations for cars
+- Fields include: make, model, color, registration number, and more
+- 🗂️ Category Management
+- Manage vehicle categories such as Bus, Sedan, SUV, Hatchback, etc.
+- 📑 Advanced Data Tables
+- Sorting and pagination for efficient data browsing
+- Optimized for large datasets
+- 🛡️ Data Integrity & Validation
+- Strong backend validation (Express)
+- Frontend validation for better UX and error handling
 
 ## Technologies Used
 
