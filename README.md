@@ -6,7 +6,7 @@ This project demonstrates a real-world, production-style architecture for managi
 
 It is designed with a focus on clean UI, secure backend logic, and efficient data handling, making it suitable for enterprise-level vehicle or fleet management use cases.
 
-- ✨ Key Features
+### ✨ Key Features
  - 🔐 Secure Authentication System:
  User Sign Up / Sign In
  JWT-based authentication for secure session handling
